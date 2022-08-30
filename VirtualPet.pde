@@ -84,8 +84,8 @@ triangle(150,150,135,60,180,125);
   //ellipse(215,420,20,40);
   
 
-  
-  
+  }
+  /*
 //show coordinates
   int xpos = mouseX;
   int ypos = mouseY;
@@ -94,3 +94,4 @@ triangle(150,150,135,60,180,125);
   String position = xstr + " , " + ystr;
   text(position, xpos,ypos);
 
+*/
